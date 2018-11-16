@@ -1,2 +1,2 @@
 # gyuto
-Project
+Ongoing project with Laravel
